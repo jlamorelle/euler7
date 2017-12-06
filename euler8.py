@@ -49,3 +49,6 @@ print "total", total
 
 #print store
 #print total
+
+print "hello"
+print "this is awesome"
